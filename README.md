@@ -1,9 +1,13 @@
-<h1 align="center">Olá, eu sou Davi Ribeiro 👋</h1>
-
-<h3 align="center">🚀 Estudante de Engenharia de Software | 🐍 Desenvolvedor Python</h3>
+<h1 align="center">Olá, me chamo Davi Ribeiro </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=1200&lines=Transformando+ideias+em+código.;Python+%7C+Git+%7C+GitHub.;Construindo+soluções+através+da+tecnologia.;Sempre+aprendendo.+Sempre+evoluindo." />
+  🚀 Estudante de Engenharia de Software <br>
+  🐍 Desenvolvedor Back-end Python <br>
+  📚 Aprendendo APIs, Banco de Dados e Arquitetura de Software
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=FF00FF&center=true&vCenter=true&width=1200&lines=SYSTEM+ONLINE;PYTHON+DEVELOPER;ENGINEERING+THE+FUTURE;CODE.+LEARN.+EVOLVE.;WELCOME+TO+MY+DIGITAL+SPACE" />
 </p>
 
 ---
@@ -37,8 +41,8 @@
 
 - ✅ Aprender Python avançado
 - ✅ Desenvolver APIs REST
-- 🔄 Aprender Docker
-- 🔄 Aprender Cloud
+- 🔄 Aprender C#
+- 🔄 Aprender JavaScript
 - 🎓 Evoluir como Engenheiro de Software
 
 ---
