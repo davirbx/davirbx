@@ -10,9 +10,7 @@
   📚 Aprendendo APIs, Banco de Dados e Arquitetura de Software
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=FF00FF&center=true&vCenter=true&width=1200&lines=SYSTEM+ONLINE;PYTHON+DEVELOPER;ENGINEERING+THE+FUTURE;CODE.+LEARN.+EVOLVE.;WELCOME+TO+MY+DIGITAL+SPACE" />
-</p>
+
 
 ---
 
