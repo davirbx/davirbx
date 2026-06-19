@@ -14,9 +14,7 @@
 
 ## 💻 Tecnologias
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,pycharm,git,github,vscode,docker,postgresql" />
 
 ---
 
