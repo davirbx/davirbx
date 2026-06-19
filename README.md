@@ -1,13 +1,9 @@
 <h1 align="center">Olá, eu sou Davi Ribeiro 👋</h1>
 
-<p align="center">
-  🚀 Estudante de Engenharia de Software <br>
-  🐍 Desenvolvedor Back-end Python <br>
-  📚 Aprendendo APIs, Banco de Dados e Arquitetura de Software
-</p>
+<h3 align="center">🚀 Estudante de Engenharia de Software | 🐍 Desenvolvedor Python</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=900&color=00D9FF&center=true&vCenter=true&width=1000&lines=🐍+Desenvolvedor+Python.;⚙️+Construindo+APIs+e+automações.;📚+Estudante+de+Engenharia+de+Software.;🚀+Cada+linha+de+código+é+um+passo+à+frente." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=1200&lines=Transformando+ideias+em+código.;Python+%7C+Git+%7C+GitHub.;Construindo+soluções+através+da+tecnologia.;Sempre+aprendendo.+Sempre+evoluindo." />
 </p>
 
 ---
@@ -23,8 +19,8 @@
 ## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davirbx&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davirbx&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davirbx&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davirbx&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -32,7 +28,7 @@
 ## 🔥 Sequência de Contribuições
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davirbx&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davirbx&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -40,13 +36,17 @@
 ## 🎯 Objetivos
 
 - ✅ Aprender Python avançado
-- ✅ Desenvolver Projetos
-- 🔄 Aprender C+
-- 🔄 Aprender JavaScript
+- ✅ Desenvolver APIs REST
+- 🔄 Aprender Docker
+- 🔄 Aprender Cloud
 - 🎓 Evoluir como Engenheiro de Software
 
 ---
 
 <p align="center">
-  <i>"Cada linha de código é uma oportunidade de aprender algo novo."</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:6A5ACD&height=120&section=footer"/>
+</p>
+
+<p align="center">
+  <i>"Cada linha de código é uma oportunidade para criar algo incrível."</i>
 </p>
