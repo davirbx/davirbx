@@ -1,12 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=700&size=36&pause=2000&color=58A6FF&center=true&vCenter=true&width=900&lines=Davi+Ribeiro" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:3776AB,100:FFD43B&text=Davi%20Ribeiro&fontSize=55&fontColor=FFFFFF&animation=fadeIn" />
 </p>
-
-<p align="center">
-  Python Developer • Software Engineering Student
-</p>
-
-<h3 align="center">Python Developer • Software Engineering Student</h3>
 
 <p align="center">
   🚀 Estudante de Engenharia de Software <br>
