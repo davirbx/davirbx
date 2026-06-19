@@ -1,5 +1,7 @@
+<h1 align="center">🐍 Davi Ribeiro 🐍</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=700&size=40&pause=1500&color=00FF41&center=true&vCenter=true&width=1000&lines=🐍+Davi+Ribeiro;Python+Developer;Software+Engineering+Student;Building+Automation+and+APIs" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=700&size=34&pause=1200&color=00FF41&center=true&vCenter=true&width=1200&lines=root%40davirbx%3A~%24+whoami;Python+Developer;Software+Engineering+Student;Building+Automation+and+APIs;Turning+Ideas+Into+Code" />
 </p>
 
 <p align="center">
