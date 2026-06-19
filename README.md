@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=700&size=38&pause=1500&color=3776AB&center=true&vCenter=true&width=1000&lines=%3E%3E%3E+import+davi;%3E%3E%3E+davi.name();Davi+Ribeiro+🐍" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,2&text=🐍%20Davi%20Ribeiro%20🐍&fontSize=55&animation=twinkling&fontAlignY=40" />
 </p>
 
 <p align="center">
