@@ -15,7 +15,7 @@
 ### 💻 Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
 </p>
 
 ---
@@ -33,14 +33,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=davirbx&theme=tokyonight"/>
-</p>
-
----
-
-### 👀 Visitantes
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=davirbx&color=blue"/>
 </p>
 
 ---
