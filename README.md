@@ -1,4 +1,4 @@
-<h1 align="center">Olá, me chamo Davi Ribeiro 👋</h1>
+<h1 align="center">Olá, me chamo Davi Ribeiro </h1>
 
 <p align="center">
   🚀 Estudante de Engenharia de Software <br>
