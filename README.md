@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=1500&color=FFD43B&center=true&vCenter=true&width=900&lines=🐍+Davi+Ribeiro+🐍" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=700&size=38&pause=1500&color=3776AB&center=true&vCenter=true&width=1000&lines=%3E%3E%3E+import+davi;%3E%3E%3E+davi.name();Davi+Ribeiro+🐍" />
 </p>
 
 <p align="center">
