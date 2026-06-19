@@ -1,19 +1,54 @@
-# Olá, eu sou Davi 👋
+<h1 align="center">Olá, eu sou Davi Ribeiro 👋</h1>
 
-🚀 Estudante de Engenharia de Software
+<p align="center">
+  🚀 Estudante de Engenharia de Software <br>
+  🐍 Desenvolvedor Back-end Python <br>
+  📚 Aprendendo APIs, Banco de Dados e Arquitetura de Software
+</p>
 
-🐍 Desenvolvedor Back-end com Python
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+Python;Apaixonado+por+Tecnologia;Sempre+aprendendo+algo+novo" />
+</p>
 
-📚 Atualmente estudando APIs, bancos de dados e arquitetura de software
+---
 
-## Estatísticas
+### 💻 Tecnologias
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davirbx&show_icons=true&theme=dark)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,mysql" />
+</p>
 
-## Linguagens
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davirbx&layout=compact&theme=dark)
+### 📊 Estatísticas
 
-## Tecnologias
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davirbx&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davirbx&layout=compact&theme=tokyonight"/>
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+---
+
+### 🔥 Sequência de Contribuições
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davirbx&theme=tokyonight"/>
+</p>
+
+---
+
+### 👀 Visitantes
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=davirbx&color=blue"/>
+</p>
+
+---
+
+### 🎯 Objetivos 2026
+
+- ✅ Aprender Python avançado
+- ✅ Criar APIs REST
+- 🔄 Aprender Docker
+- 🔄 Aprender Cloud
+- 🎓 Evoluir como Engenheiro de Software
