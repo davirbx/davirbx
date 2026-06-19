@@ -1,4 +1,6 @@
-<h1 align="center">Olá, me chamo Davi Ribeiro </h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=700&size=40&pause=1500&color=00FF41&center=true&vCenter=true&width=1000&lines=🐍+Davi+Ribeiro;Python+Developer;Software+Engineering+Student;Building+Automation+and+APIs" />
+</p>
 
 <p align="center">
   🚀 Estudante de Engenharia de Software <br>
