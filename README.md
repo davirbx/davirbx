@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&pause=1500&color=3776AB&center=true&vCenter=true&width=900&lines=Davi+Ribeiro;Python+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=700&size=36&pause=2000&color=58A6FF&center=true&vCenter=true&width=900&lines=Davi+Ribeiro" />
+</p>
+
+<p align="center">
+  Python Developer • Software Engineering Student
 </p>
 
 <h3 align="center">Python Developer • Software Engineering Student</h3>
