@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou Davi 👋
 
-<!--
-**davirbx/davirbx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Estudante de Engenharia de Software
 
-Here are some ideas to get you started:
+🐍 Desenvolvedor Back-end com Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Atualmente estudando APIs, bancos de dados e arquitetura de software
+
+## Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davirbx&show_icons=true&theme=dark)
+
+## Linguagens
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davirbx&layout=compact&theme=dark)
+
+## Tecnologias
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
