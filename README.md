@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0D1117&height=250&section=header&text=Davi%20Ribeiro&fontSize=60&fontColor=00FF41&animation=twinkling&fontAlignY=40" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=1500&color=FFD43B&center=true&vCenter=true&width=900&lines=🐍+Davi+Ribeiro+🐍" />
 </p>
 
 <p align="center">
