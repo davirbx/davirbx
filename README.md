@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,2&text=🐍%20Davi%20Ribeiro%20🐍&fontSize=55&animation=twinkling&fontAlignY=40" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&pause=2000&color=58A6FF&center=true&vCenter=true&width=700&lines=Davi+Ribeiro" />
 </p>
+
+<h3 align="center">Python Developer • Software Engineering Student</h3>
 
 <p align="center">
   🚀 Estudante de Engenharia de Software <br>
