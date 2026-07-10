@@ -20,15 +20,6 @@
 
 ---
 
-## 📊 Estatísticas GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davirbx&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davirbx&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 🔥 Sequência de Contribuições
 
 <p align="center">
