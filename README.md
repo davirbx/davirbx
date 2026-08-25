@@ -33,7 +33,6 @@
 - ✅ Aprender Python avançado
 - ✅ Desenvolver APIs REST
 - 🔄 Aprender C#
-- 🔄 Aprender JavaScript
 - 🎓 Evoluir como Engenheiro de Software
 
 ---
